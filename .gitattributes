@@ -1,0 +1,2 @@
+arty_a7_vivado_2021_2.zip filter=lfs diff=lfs merge=lfs -text
+arty_a7_petalinux_2022_2.zip filter=lfs diff=lfs merge=lfs -text

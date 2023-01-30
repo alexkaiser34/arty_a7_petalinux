@@ -1,5 +1,4 @@
 # Arty A7 Petalinux Configs
-
 Repo holding prebuilt images in petalinux, and entire block design built in vivado.
 
 1. Vivado Project
